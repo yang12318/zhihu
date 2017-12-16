@@ -677,7 +677,7 @@ public class ArticleMain extends AppCompatActivity {
                 recyclerView.smoothScrollToPosition(0);
             }
         });
-        ArticleMain.ItemClickSupport.addTo(recyclerView).setOnItemClickListener(new ArticleMain.ItemClickSupport.OnItemClickListener() {
+        /*ArticleMain.ItemClickSupport.addTo(recyclerView).setOnItemClickListener(new ArticleMain.ItemClickSupport.OnItemClickListener() {
             @Override
             public void onItemClicked(RecyclerView recyclerView, int position, View v) {
                 final News news =newsList.get(position);
@@ -690,7 +690,7 @@ public class ArticleMain extends AppCompatActivity {
                 intent.putExtra("thumbnail",news.getImages());
                 startActivity(intent);
             }
-        });
+        });*/
 
     }
 

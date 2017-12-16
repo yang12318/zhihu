@@ -41,7 +41,6 @@
                         android:gravity="center"
                         android:layout_gravity="right"
                         android:id="@+id/short_number"
-                        android:text="短评论数"
                         android:textSize="20sp"/>
             </android.support.v7.widget.Toolbar>
         </android.support.design.widget.AppBarLayout>

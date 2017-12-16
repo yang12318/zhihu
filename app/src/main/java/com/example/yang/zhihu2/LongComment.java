@@ -1,9 +1,5 @@
 package com.example.yang.zhihu2;
 
-/**
- * Created by yang on 2017/12/10.
- */
-
 public class LongComment {
     String author;
     String id;

@@ -41,12 +41,8 @@
                         android:gravity="center"
                         android:layout_gravity="right"
                         android:id="@+id/long_number"
-                        android:text="长评论数"
                         android:textSize="20sp"/>
             </android.support.v7.widget.Toolbar>
-
-
-
         </android.support.design.widget.AppBarLayout>
         <android.support.v4.widget.SwipeRefreshLayout
             android:layout_width="match_parent"

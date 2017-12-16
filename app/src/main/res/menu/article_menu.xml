@@ -20,4 +20,5 @@
         android:id="@+id/QuitCollect_Essay"
         android:title="取消收藏"
         app:showAsAction="never" />
+
 </menu>
